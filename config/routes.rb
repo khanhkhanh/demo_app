@@ -3,11 +3,7 @@ Rails.application.routes.draw do
 
   get 'static_pages/help'
 
-  get 'users/new'
-
-  get 'users/new'
-
-  get 'users/new'
+  get 'static_pages/about'
 
   get 'users/new'
 
